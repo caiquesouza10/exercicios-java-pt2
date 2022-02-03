@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b58509f-50ab-4bbb-81ce-ec3c30a5a4c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/maior-numero-na-sequencia/maior-numero-na-sequencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cargos/cargos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,7 +32,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaiorNumeroNaSequenciaApplication">
+  <component name="RunManager" selected="Application.CargosApplication">
+    <configuration name="CargosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CargosApplication" />
+      <module name="cargos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InvestimentosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InvestimentosApplication" />
       <module name="investimentos" />
@@ -56,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CargosApplication" />
         <item itemvalue="Application.MaiorNumeroNaSequenciaApplication" />
         <item itemvalue="Application.ListaDeNumerosApplication" />
         <item itemvalue="Application.InvestimentosApplication" />
@@ -83,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
