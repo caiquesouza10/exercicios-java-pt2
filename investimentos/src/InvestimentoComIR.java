@@ -8,7 +8,7 @@ public class InvestimentoComIR extends Investimento {
     public double calcularLucro(int meses) {
         double resultado = valorInicial * Math.pow(1 + (jurosMensais / 100), meses) - valorInicial;
         if (meses < 6) {
-            return resultado * (100 - 22) / 100;
+            return resultado * (100 - 22.5) / 100;
         } else if (meses >= 6 && meses < 12) {
             return resultado * (100 - 20) / 100;
         } else if (meses >= 12 && meses < 24) {
