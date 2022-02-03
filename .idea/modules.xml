@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios-java.iml" filepath="$PROJECT_DIR$/exercicios-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/investimentos/investimentos.iml" filepath="$PROJECT_DIR$/investimentos/investimentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista-de-numeros/lista-de-numeros.iml" filepath="$PROJECT_DIR$/lista-de-numeros/lista-de-numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maior-numero-na-sequencia/maior-numero-na-sequencia.iml" filepath="$PROJECT_DIR$/maior-numero-na-sequencia/maior-numero-na-sequencia.iml" />
     </modules>
   </component>
 </project>
