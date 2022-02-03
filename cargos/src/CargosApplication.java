@@ -12,7 +12,7 @@ public class CargosApplication {
 
         List<Pessoa> pessoas = new ArrayList<>();
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 5; i++) {
             System.out.print("Informe o nome da da: " + i + "ª pessoa: ");
             String nome = scanner.next();
 
